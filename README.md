@@ -1,2 +1,4 @@
 # Vit_Flavonoid
 Vision transformer (ViT)-based deep neural network is applied to classify the flavonoid glycoside isomers by analysis of the spectrum of electrospray ionization tandem mass spectrometry (ESI-MS/MS). Our model successfully classified the flavonoid isomers as various substituted pat-terns between flavonoid 3-O, 6-C, 7-O, 8-C, 4′-O and multiple glycosides with an accuracy of over 80% during the training. In addition, the experimental spectra from flavonoid glycoside standards were acquired with different adducts, and our model showed robust performance regardless of the experimental conditions. As a result, the vision transformer-based computer vision model would be promising to analyze mass spectrometry data.
+
+![dd](https://github.com/user-attachments/assets/5cebd7bb-28f4-4881-93e2-81551b73761f)
